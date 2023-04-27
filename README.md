@@ -11,6 +11,7 @@ Project Prefixes
 - Folder: [Project1 StormViewer](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/main/project1) 
 - Topics: view controllers, storyboards, FileManager class, UIImageView, UIImage, UINavigationBar, etc.
 - Has a number of images added to the bundle.
-- project1/Project1/ViewController.swift
-- https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/1580a00fc0649a223e5bc4c93322b4d5bf6f4970/project1/Project1/ViewController.swiftproject1/Project1/DetailViewController.swift
-<img src="../Images/day16-17-p01.gif">
+- [project1/Project1/ViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/1580a00fc0649a223e5bc4c93322b4d5bf6f4970/project1/Project1/ViewController.swift)
+- [project1/Project1/DetailViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/91de5df7405eb09091e01708790c12c5047d024a/project1/Project1/DetailViewController.swift)
+
+![day16-17-p01](https://user-images.githubusercontent.com/114491721/234867458-32141f26-625e-4e12-b721-348275a4a97d.gif)
