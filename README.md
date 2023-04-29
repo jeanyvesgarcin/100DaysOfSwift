@@ -26,3 +26,37 @@ Project Prefixes
 - [project1/Project1/DetailViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/dcb8d1558dc68e509b957407e832aa05e01f57a8/project1X/Project1/DetailViewController.swift)
  
 ![day18-p01X](https://user-images.githubusercontent.com/114491721/234869257-3d4ca185-6359-4ed2-a5ae-d17e24c9098a.gif)
+
+
+# Day 19 / 20 | [HWS 19](https://www.hackingwithswift.com/100/19) | [Index](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/main/README.md)
+
+- Folder: [Project2 GuessTheFlag](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/main/project2) 
+- Topics: @2x and @3x, Asset catalogs, UIButton, CALayer, UIColor, Random numbers, Actions, UIAlertController.
+- Has a number of images added to the bundle.
+- [project2/Project2/ViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/babe6d5e44932acec79d828a0cac6631d03c47a9/project2/project2/ViewController.swift)
+- [project2/Project2/DetailViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/babe6d5e44932acec79d828a0cac6631d03c47a9/project2X/project2/ViewController.swift)
+ 
+![day19-20-p02](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/babe6d5e44932acec79d828a0cac6631d03c47a9/Images/day19-20-p02.gif)
+
+
+# Day 21 | [HWS 21](https://www.hackingwithswift.com/100/21) | [Index](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/main/README.md)
+
+- Folder: [Project2 GuessTheFlag](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/main/project2X) 
+- Topics: Challenge changes from the GuessTheFlag project, simple UI changes and a new UIAlertController
+- [project1/Project1/ViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/dcb8d1558dc68e509b957407e832aa05e01f57a8/project1X/Project1/ViewController.swift)
+- [project1/Project1/DetailViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/dcb8d1558dc68e509b957407e832aa05e01f57a8/project1X/Project1/DetailViewController.swift)
+ 
+![day21-p02X](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/babe6d5e44932acec79d828a0cac6631d03c47a9/Images/day21-p02X.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
