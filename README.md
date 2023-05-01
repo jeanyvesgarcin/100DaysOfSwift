@@ -59,4 +59,11 @@ Project Prefixes
 ![day22-p01XX](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/18d49dad893d5d3e0c8a281e2b897fe5f17c7e2b/Images/day22-p01XX.gif)
 
 
+# Day 23 | [HWS 23](https://www.hackingwithswift.com/100/23) | [Index](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/main/README.md)
 
+- Folder: [Challenge1 Flags Viewer](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/main/Challenge1%20Flags%20Viewer)
+- Topics: Milestone project challenge covering projects 1 to 3.
+- [Challenge1 Flags Viewer/WorldFlagsViewer/ViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/b49bb83df62b1591e6836a005b77f86098695f13/Challenge1%20Flags%20Viewer/WorldFlagsViewer/ViewController.swift)
+- [Challenge1 Flags Viewer/WorldFlagsViewer/DetailViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/b49bb83df62b1591e6836a005b77f86098695f13/Challenge1%20Flags%20Viewer/WorldFlagsViewer/DetailViewController.swift)
+ 
+![day23-challenge1](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/b0610e380cd42395ab3ec37f26f4e4b548c80983/Images/day23-challenge1.gif)
