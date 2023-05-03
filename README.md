@@ -2,8 +2,8 @@
 Daily progress through Paul Hudson's "100 Days of Swift" challenge #100DaysOfSwift. https://www.hackingwithswift.com/100
 
 Project Prefixes
-* ProjectN - Project
-* ProjectNX - Project with challenge changes
+* DayNN - ProjectN - Project
+* DayNN - ProjectN - Project with challenge changes
 
 
 # Day 16 / 17 | [HWS 16](https://www.hackingwithswift.com/100/16) | [Index](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/main/README.md)
