@@ -66,7 +66,7 @@ Project Prefixes
 ![Day23 - Milestone - Project1-2-3](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/b0610e380cd42395ab3ec37f26f4e4b548c80983/Images/day23-challenge1.gif)
 
 
-# Day 24-25 | [HWS 24](https://www.hackingwithswift.com/100/24) | [Index](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/main/README.md)
+# Day 24 / 25 | [HWS 24](https://www.hackingwithswift.com/100/24) | [Index](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/main/README.md)
 
 - Folder: [Day24-25 - Project4](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/main/Day24-25%20-%20Project4)
 - Topics: loadView(), WKWebView, Delegation, URL, URLRequest, UIToolbar, UIProgressView, Key-Value Observing.
