@@ -129,3 +129,28 @@ Project Prefixes
 ![Day32 - Milestone - Project4-5-6](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/8e1e7bff34ca6387197369e857c13fdf25d72d5d/Images/Day32%20-%20Milestone%20-%20Project4-5-6.gif)
 
 
+# Day 33-34 | [HWS 33-34](https://www.hackingwithswift.com/100/33) | [Index](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/main/README.md)
+
+- Folder: [Day33-34 - Project7](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/main/Day32-%20Project6)
+- Topics: UITabBarController, Data, Codable, UITabBarController and UIStoryboard
+- [Day33-34 - Project7/Day33-34 - Project7/AppDelegate.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/8c32327c7724118c35fb107d10dd20f9bdf06ed8/Day33-34%20-%20Project7/Day33-34%20-%20Project7/AppDelegate.swift)
+- [Day33-34 - Project7/Day33-34 - Project7/DetailViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/8c32327c7724118c35fb107d10dd20f9bdf06ed8/Day33-34%20-%20Project7/Day33-34%20-%20Project7/DetailViewController.swift)
+- [Day33-34 - Project7/Day33-34 - Project7/ViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/8c32327c7724118c35fb107d10dd20f9bdf06ed8/Day33-34%20-%20Project7/Day33-34%20-%20Project7/ViewController.swift)
+- [Day33-34 - Project7/Day33-34 - Project7/Petition.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/8c32327c7724118c35fb107d10dd20f9bdf06ed8/Day33-34%20-%20Project7/Day33-34%20-%20Project7/Petition.swift)
+- [Day33-34 - Project7/Day33-34 - Project7/Petitions.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/8c32327c7724118c35fb107d10dd20f9bdf06ed8/Day33-34%20-%20Project7/Day33-34%20-%20Project7/Petitions.swift)
+ 
+![Day33-34 - Project7](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/8c32327c7724118c35fb107d10dd20f9bdf06ed8/Images/Day33-34%20-%20Project7.gif.gif)
+
+
+# Day 35 | [HWS 35](https://www.hackingwithswift.com/100/35) | [Index](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/main/README.md)
+
+- Folder: [Day35 - Project7](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/main/Day32-%20Project6)
+- Topics: Challenge changes, add a new UIBarButtonItem + UIAlertController and filter results
+- [Day35 - Project7/Day35 - Project7/AppDelegate.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/8c32327c7724118c35fb107d10dd20f9bdf06ed8/Day35%20-%20Project7/Day35%20-%20Project7/AppDelegate.swift)
+- [Day35 - Project7/Day35 - Project7/DetailViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/8c32327c7724118c35fb107d10dd20f9bdf06ed8/Day35%20-%20Project7/Day35%20-%20Project7/DetailViewController.swift)
+- [Day35 - Project7/Day35 - Project7/ViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/8c32327c7724118c35fb107d10dd20f9bdf06ed8/Day35%20-%20Project7/Day35%20-%20Project7/ViewController.swift)
+- [Day35 - Project7/Day35 - Project7/Petition.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/8c32327c7724118c35fb107d10dd20f9bdf06ed8/Day35%20-%20Project7/Day35%20-%20Project7/Petition.swift)
+- [Day35 - Project7/Day35 - Project7/Petitions.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/8c32327c7724118c35fb107d10dd20f9bdf06ed8/Day35%20-%20Project7/Day35%20-%20Project7/Petitions.swift)
+ 
+![Day35 - Project7](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/8c32327c7724118c35fb107d10dd20f9bdf06ed8/Images/Day35%20-%20Project7.gif)
+
