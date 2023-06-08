@@ -131,7 +131,7 @@ Project Prefixes
 
 # Day 33-34 | [HWS 33-34](https://www.hackingwithswift.com/100/33) | [Index](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/main/README.md)
 
-- Folder: [Day33-34 - Project7](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/main/Day32-%20Project6)
+- Folder: [Day33-34 - Project7](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/main/Day33-34-%20Project7)
 - Topics: UITabBarController, Data, Codable, UITabBarController and UIStoryboard
 - [Day33-34 - Project7/Day33-34 - Project7/AppDelegate.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/8c32327c7724118c35fb107d10dd20f9bdf06ed8/Day33-34%20-%20Project7/Day33-34%20-%20Project7/AppDelegate.swift)
 - [Day33-34 - Project7/Day33-34 - Project7/DetailViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/8c32327c7724118c35fb107d10dd20f9bdf06ed8/Day33-34%20-%20Project7/Day33-34%20-%20Project7/DetailViewController.swift)
@@ -144,7 +144,7 @@ Project Prefixes
 
 # Day 35 | [HWS 35](https://www.hackingwithswift.com/100/35) | [Index](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/main/README.md)
 
-- Folder: [Day35 - Project7](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/main/Day32-%20Project6)
+- Folder: [Day35 - Project7](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/main/Day35-%20Project7)
 - Topics: Challenge changes, add a new UIBarButtonItem + UIAlertController and filter results
 - [Day35 - Project7/Day35 - Project7/AppDelegate.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/8c32327c7724118c35fb107d10dd20f9bdf06ed8/Day35%20-%20Project7/Day35%20-%20Project7/AppDelegate.swift)
 - [Day35 - Project7/Day35 - Project7/DetailViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/8c32327c7724118c35fb107d10dd20f9bdf06ed8/Day35%20-%20Project7/Day35%20-%20Project7/DetailViewController.swift)
@@ -153,4 +153,22 @@ Project Prefixes
 - [Day35 - Project7/Day35 - Project7/Petitions.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/8c32327c7724118c35fb107d10dd20f9bdf06ed8/Day35%20-%20Project7/Day35%20-%20Project7/Petitions.swift)
  
 ![Day35 - Project7](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/8c32327c7724118c35fb107d10dd20f9bdf06ed8/Images/Day35%20-%20Project7.gif)
+
+
+# Day 36-37 | [HWS 36-37](https://www.hackingwithswift.com/100/36) | [Index](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/main/README.md)
+
+- Folder: [Day36-37 - Project8](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/main/Day36-37-%20Project8)
+- Topics: UITabBarController, Data, Codable, UITabBarController and UIStoryboard
+- [Day36-37 - Project7/Day36-37 - Project8/ViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/accdceb9d97c88e7fc636120f1f75feb74ca3da1/Day36-37%20-%20Project8/Day36-37%20-%20Project8/ViewController.swift)
+ 
+![Day36-37 - Project8](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/e8341d52c52e061ab6c7a4b67b0b1084e0ad711f/Images/Day36-37%20-%20Project8.gif)
+
+
+# Day 38 | [HWS 38](https://www.hackingwithswift.com/100/38) | [Index](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/main/README.md)
+
+- Folder: [Day38 - Project8](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/main/Day38-%20Project8)
+- Topics: Challenge changes, add a new UIBarButtonItem + UIAlertController and filter results
+- [Day38 - Project8/Day38 - Project8/ViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/accdceb9d97c88e7fc636120f1f75feb74ca3da1/Day38%20-%20Project8%20/Day38%20-%20Project8/ViewController.swift)
+ 
+![Day38 - Project8](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/e8341d52c52e061ab6c7a4b67b0b1084e0ad711f/Images/Day38%20-%20Project8.gif)
 
