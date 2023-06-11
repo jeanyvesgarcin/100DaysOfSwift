@@ -172,3 +172,31 @@ Project Prefixes
  
 ![Day38 - Project8](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/e8341d52c52e061ab6c7a4b67b0b1084e0ad711f/Images/Day38%20-%20Project8.gif)
 
+
+# Day 39 | [HWS 39](https://www.hackingwithswift.com/100/39) | [Index](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/main/README.md)
+
+- Folder: [Day39 - Project9](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/main/Day39-%20Project9)
+- Topics: Grand Central Dispatch, quality of service queues, performSelector() and more
+- [Day39 - Project9/Day39 - Project9/ViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/43462f47e870bcba61d1f624e7b9b211b5ea9275/Day39%20-%20Project9/Day39%20-%20Project9/ViewController.swift)
+
+
+# Day 40 | [HWS 40](https://www.hackingwithswift.com/100/40) | [Index](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/main/README.md)
+
+- Folder: [Day40 - Project1](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/main/Day40-%20Project1)
+- Topics: Challenge GCD changes to several projects
+- [Day40 - Project1/Day40 - Project1/ViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/43462f47e870bcba61d1f624e7b9b211b5ea9275/Day40%20-%20Project1/Project1/ViewController.swift)
+
+
+# Day 40 | [HWS 40](https://www.hackingwithswift.com/100/40) | [Index](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/main/README.md)
+
+- Folder: [Day40 - Project7](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/main/Day40-%20Project7)
+- Topics: Challenge GCD changes to several projects
+- [Day40 - Project1/Day40 - Project7/ViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/43462f47e870bcba61d1f624e7b9b211b5ea9275/Day40%20-%20Project7/Day40%20-%20Project7/ViewController.swift)
+
+
+# Day 40 | [HWS 40](https://www.hackingwithswift.com/100/40) | [Index](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/main/README.md)
+
+- Folder: [Day40 - Project8](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/main/Day40-%20Project8)
+- Topics: Challenge GCD changes to several projects
+- [Day40 - Project8/Day40 - Project1/ViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/43462f47e870bcba61d1f624e7b9b211b5ea9275/Day40%20-%20Project8/Day40%20-%20Project8/ViewController.swift)
+
