@@ -231,6 +231,6 @@ Project Prefixes
 - Topics: Challenge to add a second UIAlertController, using picker.sourceType = .camera.
 - [Day44 - Project10/NamesToFaces/ViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/77264ddaaa9bf508b6c3c85371c3198420f9a031/Day44%20-%20Project10/NamesToFaces/ViewController.swift)
 
-![Day44 - Project10](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/bbd2d8d11fa9508e3ecf0a4948c1f97edbb1cac0/Images/Day42-43%20-%20Proejct10.gif)
+![Day44 - Project10](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/fae59f2e25a8a6d4b361561d5f770de880881f19/Images/Day44%20-%20Project10.gif)
 
 
