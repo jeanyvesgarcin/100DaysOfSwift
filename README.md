@@ -256,11 +256,11 @@ Project Prefixes
 
 # Day 48-49 | [HWS 48](https://www.hackingwithswift.com/100/48) | [Index](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/main/README.md)
 
-- Folder: [Day48 - Project12A](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/main/Day48-%20Project12A)
-- Folder: [Day49 - Project12B](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/main/Day49-%20Project12B)
-- Folder: [Day49 - Project1](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/main/Day49-%20Project1)
-- Folder: [Day49 - Project2](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/main/Day49-%20Project2)
-- Folder: [Day49 - Project5](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/main/Day49-%20Project5)
+- Folder: [Day48 - Project12A](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/a6fddbeda847ddc1bea425afdd3044a55e5f40eb/Day48%20-%20Project12A)
+- Folder: [Day49 - Project12B]([https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/main/Day49-%20Project12B])
+- Folder: [Day49 - Project1](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/a6fddbeda847ddc1bea425afdd3044a55e5f40eb/Day49%20-%20Project1)
+- Folder: [Day49 - Project2](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/a6fddbeda847ddc1bea425afdd3044a55e5f40eb/Day49%20-%20Project2)
+- Folder: [Day49 - Project5](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/a6fddbeda847ddc1bea425afdd3044a55e5f40eb/Day49%20-%20Project5)
 - Topics: UserDefaults, NSCoding (Objective C compatible), Codable (Not Objective C compatible), NSKeyedArchiver, NSKeyedUnarchiver, JSONEncoder and JSONDecoder + Challenge changes, update older projects and add UserDefaults.
 
 
