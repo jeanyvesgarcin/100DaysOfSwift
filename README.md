@@ -274,6 +274,13 @@ Project Prefixes
 ![Day50 - Milesonte 10-12](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/a09e48c17451d2ac9525d04c0ef81d523ded857e/Images/Day50%20-%20Milestone%2010-12.gif.gif)
 
 
+# Day 51 | [HWS 51](https://www.hackingwithswift.com/100/51) | [Index](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/main/README.md)
+
+Watching conference videos from Paul Hudson:
+- https://www.youtube.com/watch?v=OgU8d_E1K14
+- https://vimeo.com/291590798
+
+
 # Day 52-53 | [HWS 52](https://www.hackingwithswift.com/100/52) | [Index](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/main/README.md)
 
 - Folder: [Day52-53 - Project13](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/956c0816b7b0279fa25eb961166f6085769493b8/Day52-53%20-%20Project13)
