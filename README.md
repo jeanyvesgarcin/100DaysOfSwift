@@ -448,3 +448,12 @@ Watching conference videos from Paul Hudson:
 - [Day71 - Project20/Day71 - Project20/GameViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/a293f5de70ca3e4fb5d6ba17ee772f7daabdebf3/Day71%20-%20Project20/Day71%20-%20Project20/GameViewController.swift)
 
 
+# Day 72 | [HWS 72](https://www.hackingwithswift.com/100/72) | [Index](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/main/README.md)
+
+- Folder: [Day72 - Project21](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/5161f9b47728fc29146589e648b303c5850cc666/Day72%20-%20Project21)
+- Topics: follow(), UIBezierPath, for case let, Color blending, Shake gesture
+- [Day72 - Project21/Day72 - Project21/ViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/5161f9b47728fc29146589e648b303c5850cc666/Day72%20-%20Project21/Day72%20-%20Project21/ViewController.swift)
+
+![Day72 - Project21](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/5161f9b47728fc29146589e648b303c5850cc666/Images/Day72%20-%20Project21.gif)
+
+
