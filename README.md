@@ -415,7 +415,7 @@ Watching conference videos from Paul Hudson:
 - Folder: [Day67-68 - Project19](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/aa27d999b8975c9efbd73c1b1d5f929ef411928a/Day67-68%20-%20Project19)
 - Topics: NSExtensionItem - creating a safari extension which runs JavaScript on a web page.
 - [Day67-68 - Project19/Day67-68 - Project19/ViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/aa27d999b8975c9efbd73c1b1d5f929ef411928a/Day67-68%20-%20Project19/Day67-68%20-%20Project19/ViewController.swift)
-- [Day67-68 - Project19/Extension/ActionViewController.swift]([https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/aa27d999b8975c9efbd73c1b1d5f929ef411928a/Day67-68%20-%20Project19/Day67-68%20-%20Project19/ViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/aa27d999b8975c9efbd73c1b1d5f929ef411928a/Day67-68%20-%20Project19/Extension/ActionViewController.swift))
+- [Day67-68 - Project19/Extension/ActionViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/aa27d999b8975c9efbd73c1b1d5f929ef411928a/Day67-68%20-%20Project19/Extension/ActionViewController.swift)
 
 ![Day67-68 - Project19](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/aa27d999b8975c9efbd73c1b1d5f929ef411928a/Images/Day67-68%20-%20Project19.gif)
 
@@ -429,5 +429,14 @@ Watching conference videos from Paul Hudson:
 - [Day69 - Project19/Extension/ScriptsTableViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/aa27d999b8975c9efbd73c1b1d5f929ef411928a/Day69%20-%20Project19/Extension/ScriptsTableViewController.swift)
 - [Day69 - Project19/Extension/SiteScript.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/aa27d999b8975c9efbd73c1b1d5f929ef411928a/Day69%20-%20Project19/Extension/SiteScript.swift)
 
+
+# Day 70 | [HWS 70](https://www.hackingwithswift.com/100/70) | [Index](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/main/README.md)
+
+- Folder: [Day70 - Project20](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/61529991e2ec1528eb3db6b922c7e583a1b30a64/Day70%20-%20Project20)
+- Topics: follow(), UIBezierPath, for case let, Color blending, Shake gesture
+- [Day70 - Project20/Day70 - Project20/GameScene.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/61529991e2ec1528eb3db6b922c7e583a1b30a64/Day70%20-%20Project20/Day70%20-%20Project20/GameScene.swift)
+- [Day70 - Project20/Day70 - Project20/GameViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/61529991e2ec1528eb3db6b922c7e583a1b30a64/Day70%20-%20Project20/Day70%20-%20Project20/GameViewController.swift)
+
+![Day70 - Project20](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/61529991e2ec1528eb3db6b922c7e583a1b30a64/Images/Day70%20-%20Project20.gif)
 
 
