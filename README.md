@@ -481,3 +481,17 @@ Watching conference videos from Paul Hudson:
 ![Day74 - Milestone - Projects19-20-21.gif](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/fb05b7f7a93d6d198de0a91d99769383c4ccc2e4/Images/Day74%20-%20Milestone%20-%20Projects19-20-21.gif)
 
 
+# Day 75 | [HWS 75](https://www.hackingwithswift.com/100/75) | [Index](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/main/README.md)
+
+- Folder: [Day75 - Project22](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/ffc9931fa67574a9e4e42e1414d77dc3ff09fa8b/Day75%20-%20Project22)
+- Topics: Core Location, CLBeaconRegion
+- [Day75 - Project22/Day75 - Project22/ViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/ffc9931fa67574a9e4e42e1414d77dc3ff09fa8b/Day75%20-%20Project22/Day75%20-%20Project22/ViewController.swift)
+
+
+# Day 76 | [HWS 76](https://www.hackingwithswift.com/100/76) | [Index](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/main/README.md)
+
+- Folder: [Day76 - Project22](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/ffc9931fa67574a9e4e42e1414d77dc3ff09fa8b/Day76%20-%20Project22%20)
+- Topics: Challenge adding further beacons and a circle for range.
+- [Day76 - Project22/Day76 - Project22/ViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/1325c6769c37f2ab24d15d7f1ab56bea5c3ed4ab/Day76%20-%20Project22%20/DetectABeacon/ViewController.swift)
+
+
