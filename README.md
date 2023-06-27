@@ -515,3 +515,18 @@ Watching conference videos from Paul Hudson:
 ![Day79 - Project23](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/f6b509ded2c59f1616bb31662ce9cd618def1565/Images/Day79%20-%20Project23.gif)
 
 
+# Day 80 | [HWS 80](https://www.hackingwithswift.com/100/80) | [Index](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/main/README.md)
+
+- Folder: [Day80 - Project24](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/caf7587afa5c5cc9f7f9129d2ad11cd1c8061f1c/Day80%20-%20Project24)
+- Topics: String work differently from arrays, writing extensions for String, Using functions as closures, NSAttributedString for formatting
+- [Day80 - Project24/Day80 - Project24.playground/Contents.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/caf7587afa5c5cc9f7f9129d2ad11cd1c8061f1c/Day80%20-%20Project24/Day80%20-%20Project24.playground/Contents.swift)
+
+
+# Day 81 | [HWS 81](https://www.hackingwithswift.com/100/81) | [Index](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/main/README.md)
+
+- Folder: [Day81 - Project24](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/caf7587afa5c5cc9f7f9129d2ad11cd1c8061f1c/Day81%20-%20Project24)
+- Topics: Challenge, write from string extensions
+- [Day81 - Project24/Day81 - Project24.playground/Contents.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/caf7587afa5c5cc9f7f9129d2ad11cd1c8061f1c/Day81%20-%20Project24/Day81%20-%20Project24.playground/Contents.swift)
+
+
+  
