@@ -612,7 +612,7 @@ Watching conference videos from Paul Hudson:
 ![Day92 - Project28](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/2b4f28604fc9f74f5742a4a08ed999cdaf00eb8d/Images/Day92%20-%20Project28.gif)
 
 
-# Day 93 | [HWS 90](https://www.hackingwithswift.com/100/90) | [Index](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/main/README.md)
+# Day 93 | [HWS 93](https://www.hackingwithswift.com/100/93) | [Index](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/main/README.md)
 
 - Folder: [Day93 - Project28](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/main/Day93%20-%20Project28)
 - Topics: Challenge, Add a simple password, an unlock/done button
