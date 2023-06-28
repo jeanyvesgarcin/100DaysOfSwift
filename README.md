@@ -574,3 +574,20 @@ Watching conference videos from Paul Hudson:
 ![Day87 - Project26](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/5ff433287538a5cd9998c60fc7644f92430419a6/Images/Day87%20-%20Project26.gif)
 
 
+# Day 88 | [HWS 88](https://www.hackingwithswift.com/100/88) | [Index](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/main/README.md)
+
+- Folder: [Day88 - Project27](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/main/Day88%20-%20Project27)
+- Topics: UIGraphicsImageRenderer, CGRect, NSAttributedString, drawing fills and strokes
+- [Day88 - Project27/Day88 - Project27/ViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/119f6aba09081f8396c07e4a1015698d7a9d8cfa/Day88%20-%20Project27/Day88%20-%20Project27/ViewController.swift)
+
+![Day88 - Project27](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/119f6aba09081f8396c07e4a1015698d7a9d8cfa/Images/Day88%20-%20Project27.gif)
+
+
+# Day 89 | [HWS 89](https://www.hackingwithswift.com/100/89) | [Index](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/main/README.md)
+
+- Folder: [Day89 - Project27](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/main/Day89%20-%20Project27)
+- Topics: Challenge, emoji and word twin drawn
+- [Day89 - Project27/Day89 - Project27/ViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/119f6aba09081f8396c07e4a1015698d7a9d8cfa/Day89%20-%20Project27/Day89%20-%20Project27/ViewController.swift)
+
+![Day89 - Project27](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/119f6aba09081f8396c07e4a1015698d7a9d8cfa/Images/Day89%20-%20Project27.gif)
+
