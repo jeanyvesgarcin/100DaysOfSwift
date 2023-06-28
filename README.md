@@ -601,3 +601,25 @@ Watching conference videos from Paul Hudson:
 ![Day90 - Milestone - Project25-26-27](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/6b5c52cf3baadde1b84e2ff888c7eb51f5e7add1/Images/Day90%20-%20Milestone%20-%20Project25-26-27.gif)
 
 
+# Day 92 | [HWS 92](https://www.hackingwithswift.com/100/92) | [Index](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/main/README.md)
+
+- Folder: [Day92 - Project28](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/main/Day92%20-%20Project28)
+- Topics: LocalAuthentication framework, iOS keychain
+- [Day92 - Project28/SecretSwift/ViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/2b4f28604fc9f74f5742a4a08ed999cdaf00eb8d/Day92%20-%20Project28/SecretSwift/ViewController.swift)
+- [Day92 - Project28/SecretSwift/KeychainWrapper.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/2b4f28604fc9f74f5742a4a08ed999cdaf00eb8d/Day92%20-%20Project28/SecretSwift/KeychainWrapper.swift)
+- [Day92 - Project28/SecretSwift/KeychainItemAccessibility.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/2b4f28604fc9f74f5742a4a08ed999cdaf00eb8d/Day92%20-%20Project28/SecretSwift/KeychainItemAccessibility.swift)
+
+![Day92 - Project28](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/2b4f28604fc9f74f5742a4a08ed999cdaf00eb8d/Images/Day92%20-%20Project28.gif)
+
+
+# Day 93 | [HWS 90](https://www.hackingwithswift.com/100/90) | [Index](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/main/README.md)
+
+- Folder: [Day93 - Project28](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/main/Day93%20-%20Project28)
+- Topics: Challenge, Add a simple password, an unlock/done button
+- [Day93 - Project28/SecretSwift/ViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/8e6b2e7f16dc874d94a51a6c2217d40acfd5817e/Day93%20-%20Project28/SecretSwift/ViewController.swift)
+- [Day93 - Project28/SecretSwift/KeychainWrapper.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/8e6b2e7f16dc874d94a51a6c2217d40acfd5817e/Day93%20-%20Project28/SecretSwift/KeychainWrapper.swift)
+- [Day93 - Project28/SecretSwift/KeychainItemAccessibility.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/8e6b2e7f16dc874d94a51a6c2217d40acfd5817e/Day93%20-%20Project28/SecretSwift/KeychainItemAccessibility.swift)
+- [Day93 - Project12](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/8e6b2e7f16dc874d94a51a6c2217d40acfd5817e/Day93%20-%20Project12)
+
+
+
