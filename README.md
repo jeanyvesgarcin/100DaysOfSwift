@@ -622,4 +622,24 @@ Watching conference videos from Paul Hudson:
 - [Day93 - Project12](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/8e6b2e7f16dc874d94a51a6c2217d40acfd5817e/Day93%20-%20Project12)
 
 
+# Day 94-95 | [HWS 94-95](https://www.hackingwithswift.com/100/94) | [Index](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/main/README.md)
+
+- Folder: [Day94-95 - Project29](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/main/Day94-95%20-%20Project29)
+- Topics: How to generate a scene dynamically, how to connect SpriteKit and UIKit
+- [Day94-95 - Project29/Project29/GameScene.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/81572414a7c9110a237295b22abf47df468e0a99/Day94-95%20-%20Project29/Project29/GameScene.swift)
+- [Day94-95 - Project29/Project29/GameViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/81572414a7c9110a237295b22abf47df468e0a99/Day94-95%20-%20Project29/Project29/GameViewController.swift)
+
+![Day94-95 - Project29](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/81572414a7c9110a237295b22abf47df468e0a99/Images/Day94-95%20-%20Project29.gif)
+
+
+# Day 96 | [HWS 96](https://www.hackingwithswift.com/100/96) | [Index](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/main/README.md)
+
+- Folder: [Day96 - Project29](https://github.com/jeanyvesgarcin/100DaysOfSwift/tree/main/Day96%20-%20Project29)
+- Topics: Challenge, adding wind (with increased difficulty: gravity/speed), auto layout, scores 
+- [Day96 - Project29/ExplodingMonkeys/GameScene.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/81572414a7c9110a237295b22abf47df468e0a99/Day96%20-%20Project29/ExplodingMonkeys/GameScene.swift)
+- [Day96 - Project29/ExplodingMonkeys/GameViewController.swift](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/81572414a7c9110a237295b22abf47df468e0a99/Day96%20-%20Project29/ExplodingMonkeys/GameViewController.swift)
+
+![Day96 - Project29](https://github.com/jeanyvesgarcin/100DaysOfSwift/blob/81572414a7c9110a237295b22abf47df468e0a99/Images/Day96%20-%20Project29.gif)
+
+
 
